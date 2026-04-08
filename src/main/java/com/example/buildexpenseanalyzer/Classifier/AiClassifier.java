@@ -10,6 +10,7 @@ public class AiClassifier {
         this.chatClient = builder.build();
     }
     public String generateCategory(String title){
+        System.out.println("API KEY = " + System.getenv("GEMINI_API_KEY"));
 
         return chatClient.prompt()
                             .system("""

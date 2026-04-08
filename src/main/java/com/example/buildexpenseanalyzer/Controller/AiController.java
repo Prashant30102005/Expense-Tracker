@@ -20,7 +20,7 @@ public class AiController {
     private final AiAnalysisService aiAnalysisService;
     @GetMapping("/insights/{id}")
     public String insighs(@PathVariable Long id) {
-        System.out.println("API KEY = " + System.getenv("GEMINI_API_KEY"));
+        
         return aiAnalysisService.getInsights(id);
     }
     

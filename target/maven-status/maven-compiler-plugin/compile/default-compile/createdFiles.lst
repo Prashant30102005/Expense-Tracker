@@ -1,0 +1,17 @@
+com\example\buildexpenseanalyzer\Controller\ProjectController.class
+com\example\buildexpenseanalyzer\service\AiService.class
+com\example\buildexpenseanalyzer\BuildexpenseanalyzerApplication.class
+com\example\buildexpenseanalyzer\Controller\ExpenseController.class
+com\example\buildexpenseanalyzer\service\AiAnalysisService.class
+com\example\buildexpenseanalyzer\Dto\ProjectDto.class
+com\example\buildexpenseanalyzer\Repo\ProjectRepo.class
+com\example\buildexpenseanalyzer\Controller\AnaysisController.class
+com\example\buildexpenseanalyzer\Controller\AiController.class
+com\example\buildexpenseanalyzer\model\Expense.class
+com\example\buildexpenseanalyzer\model\Project.class
+com\example\buildexpenseanalyzer\service\ProjectService.class
+com\example\buildexpenseanalyzer\service\ExpenseService.class
+com\example\buildexpenseanalyzer\Classifier\AiClassifier.class
+com\example\buildexpenseanalyzer\Repo\ExpenseRepo.class
+com\example\buildexpenseanalyzer\service\AnalysisService.class
+com\example\buildexpenseanalyzer\Dto\ExpenseDto.class
